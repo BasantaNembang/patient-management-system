@@ -1,0 +1,13 @@
+grpc:
+  server:
+    port: 9091
+    enable-reflection: true
+
+server:
+  port: 8081
+
+spring:
+  application:
+    name: billing-service
+
+    
